@@ -1,0 +1,1 @@
+const t={fullName:"Osamah Ahmed Khudhair Alhel",firstName:"Osamah",title:"Yazılım Geliştirici"},a={github:"https://github.com/OSAMAH-kh",linkedin:"",instagram:""},h="https://osamah-kh.github.io/seyahat-rehberi/",s="https://github.com/OSAMAH-kh/seyahat-rehberi";export{t as P,a as S,h as T,s as a};
