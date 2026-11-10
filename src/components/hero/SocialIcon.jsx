@@ -7,9 +7,9 @@ const paths = {
 };
 
 const imageIcons = {
-  instagram: "/instagram.png",
-  facebook: "/facebook.png",
-  youtube: "/youtube.png",
+  instagram: "instagram.png",
+  facebook: "facebook.png",
+  youtube: "youtube.png",
 };
 
 const SocialIcon = ({ name }) => {

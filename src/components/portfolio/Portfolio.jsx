@@ -6,7 +6,7 @@ import { TRAVEL_APP_REPO, TRAVEL_APP_URL } from "../../config";
 const items = [
   {
     id: 1,
-    img: "/seyahat-rehberi.jpg",
+    img: "seyahat-rehberi.jpg",
     title: "Seyahat Rehberi",
     desc: "Haritada gezdiğiniz bölgedeki restoranları, kafeleri, otelleri ve gezilecek yerleri gösteren; anlık hava durumu ve yer arama özellikleri olan bir web uygulaması. React, Material UI, Leaflet ve OpenStreetMap ile geliştirildi.",
     link: TRAVEL_APP_URL,

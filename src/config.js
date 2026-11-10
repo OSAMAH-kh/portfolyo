@@ -13,7 +13,7 @@ export const SOCIAL_LINKS = {
   instagram: "",
 };
 
-// Seyahat Rehberi projesinin Vercel adresi
-export const TRAVEL_APP_URL = "https://seyahat-rehberi-eight.vercel.app";
+// Seyahat Rehberi projesinin canlı adresi
+export const TRAVEL_APP_URL = "https://osamah-kh.github.io/seyahat-rehberi/";
 // Seyahat Rehberi projesinin GitHub deposu (isteğe bağlı)
 export const TRAVEL_APP_REPO = "https://github.com/OSAMAH-kh/seyahat-rehberi";

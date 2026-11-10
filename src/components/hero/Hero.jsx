@@ -147,7 +147,7 @@ const Hero = () => {
           transition={{ duration: 1 }}
           className="certificate"
         >
-          <img src="/certificate.png" alt="" />
+          <img src="certificate.png" alt="" />
           MODERN WEB
           <br />
           UYGULAMALARI
@@ -216,7 +216,7 @@ const Hero = () => {
           </Suspense>
         </Canvas>
         <div className="hImg">
-          <img src="/osamah.png" alt={PROFILE.fullName} />
+          <img src="osamah.png" alt={PROFILE.fullName} />
         </div>
       </div>
     </div>

@@ -40,19 +40,19 @@ const listVariants = {
 const services = [
   {
     id: 1,
-    img: "/service1.png",
+    img: "service1.png",
     title: "Web Geliştirme",
     desc: "React ile modern arayüzler",
   },
   {
     id: 2,
-    img: "/service2.png",
+    img: "service2.png",
     title: "Arayüz Tasarımı",
     desc: "Kullanıcı dostu tasarımlar",
   },
   {
     id: 3,
-    img: "/service3.png",
+    img: "service3.png",
     title: "3D ve Animasyon",
     desc: "Three.js ile etkileşimli deneyimler",
   },
